@@ -1,0 +1,3 @@
+--- UPSERT SUCCESSFUL ---
+New count in the bank: 8
+The new information has been merged into 'processed_pdf_bank'.
