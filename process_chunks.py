@@ -29,3 +29,4 @@ print(f"The Memory Bank now contains {total_items} indexed items.")
 
 # 5. SAVE: Store this processed data into a folder
 vector_db.save_local("processed_pdf_bank")
+
